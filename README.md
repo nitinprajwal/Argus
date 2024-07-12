@@ -50,8 +50,6 @@ The system captures audiovisual data through IoT sensors and cameras, processes 
 ## Project Description
 The project includes hardware setup, AI model development, software integration, testing, and deployment. It aims to be a portable and user-friendly solution that promotes independence and inclusivity.
 
-## Circuit Diagram
-
 ## Data and Code
 The datasets for training AI models are curated to ensure robust performance. The code includes algorithms for real-time sign language detection and object recognition.
 
