@@ -1,0 +1,23 @@
+# Core dependencies
+opencv-python>=4.5.0
+numpy>=1.19.0
+PyQt5>=5.15.0
+pyttsx3>=2.90
+SpeechRecognition>=3.8.0
+
+# Anthropic API
+anthropic>=0.5.0
+
+# MediaPipe for object detection
+mediapipe>=0.10.0
+
+# TensorFlow Lite (used by MediaPipe tasks)
+tensorflow>=2.8.0
+
+# Optional: PyQt4 fallback support is in the code, but PyQt5 is preferred
+# pyqt4
+
+# System dependencies that might be needed
+# These are installed via system package manager, not pip
+# - portaudio19-dev (required for PyAudio which is used by SpeechRecognition)
+# - python3-pyaudio (or pip install pyaudio)
